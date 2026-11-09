@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.jpg" alt="Mehdi Cheshmi — network and data-center infrastructure" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/mehdicheshmi65/mehdicheshmi65@main/assets/hero.jpg" alt="Mehdi Cheshmi — network and data-center infrastructure" width="100%" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="148" valign="top">
-      <img src="./assets/avatar.png" width="132" alt="Mehdi Cheshmi" />
+      <img src="https://cdn.jsdelivr.net/gh/mehdicheshmi65/mehdicheshmi65@main/assets/avatar.png" width="132" alt="Mehdi Cheshmi" />
     </td>
     <td valign="top">
       <p>I work on data-center and network infrastructure — and on the tooling that keeps it honest. That means NetBox automation for IPAM and DCIM, power, cooling and cabling calculations for facilities, and small ESP32 controllers that watch what nobody has time to watch.</p>
